@@ -21,7 +21,6 @@ QQ群：148647580
 BBS：[http://golanghome.com/](http://golanghome.com/)
 
 ## Acknowledgments
-
  - [四月份平民](https://plus.google.com/110445767383269817959) (review代码)
  - [Hong Ruiqi](https://github.com/hongruiqi) (review代码)
  - [BianJiang](https://github.com/border) (编写go开发工具Vim和Emacs的设置)
